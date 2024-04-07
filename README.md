@@ -1,9 +1,21 @@
 # RN 007 Rat
- monitors Android mobile phone text messages, incoming calls, and APP notifications, and forwards them to other mobile phones according to specified rules: DingTalk group custom robots, DingTalk enterprise robots, enterprise WeChat group robots, Feishu robots, and enterprise WeChat application messages , mailbox, bark, webhook, Telegram robot, Server sauce, PushPlus, mobile SMS, etc. Including active control of the server and client, allowing you to easily send text messages remotely, check text messages, check calls, check the phone book, check battery, etc. (New in V3.0) PS. This APK is mainly for learning and personal use. If there are any bugs, please raise an ISSUE. You are also welcome to submit PRs and corrections.
+
+
+ #   [BUY HERE FROM WEBSITE]
+
+[BUY HERE FROM WEBSITE]: https://ratshop.org/product/pdf-rat-hvnc/
+  
 
 ## Screenshots
 
-![53](https://github.com/DevinAIDeveloper/Devin-Android-RAT-2024/assets/160529355/790ecc9d-3b1b-490b-ba12-c77c4978c744)
+![53](https://zennashop.com/images/working_principle_en.png)
+
+## Paid Features
+- rat size 321 kb
+- hide in android 14
+- no port forwarding needed
+- no pc required
+- two type encryption ( RSA encryption, SM4 encryption )
 
 
 ## Features
@@ -70,3 +82,6 @@
 | Get All Notification|✔       |  ✔     | ✔     |
 | Passwords Detector/Capture|✔       |  ✔     | ✔     |
 | Cookies Capture|✔       |  ✔     | ✔     |
+| apk icon changer|✔       |  ❌     | ✔     |
+| PackageName Changer|✔       |  ❌     | ✔     |
+| Name Changer|✔       |  ❌     | ✔     |
