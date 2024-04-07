@@ -67,6 +67,6 @@
 | Take Photo|✔       |  ✔     | ✔     |
 | Self Destruction To remove the Apk |✔       |  ✔     | ✔     |
 | Microphone Capture(Listen,Speak,Record)|✔       |  ✔     | ✔     |
-| Get All Notification||✔       |  ✔     | ✔     |
+| Get All Notification|✔       |  ✔     | ✔     |
 | Passwords Detector/Capture|✔       |  ✔     | ✔     |
 | Cookies Capture|✔       |  ✔     | ✔     |
