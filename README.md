@@ -3,7 +3,7 @@
 
  #   [BUY HERE FROM WEBSITE]
 
-[BUY HERE FROM WEBSITE]: https://ratshop.org/product/pdf-rat-hvnc/
+[BUY HERE FROM WEBSITE]: https://commerce.coinbase.com/checkout/6a8fb8fe-08cb-4dc1-aaaf-bc8ca64bc77f
   
 
 ## Screenshots
