@@ -6,9 +6,12 @@
 [BUY HERE FROM WEBSITE]: https://commerce.coinbase.com/checkout/6a8fb8fe-08cb-4dc1-aaaf-bc8ca64bc77f
   
 # Contact Us
-[![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]https://telegram.me/ranbroagmailcom)
 [![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ranbroagmailcom)
+
 [![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ranbroagmailcom)
+
+[![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ranbroagmailcom)
+
 [![Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ranbroagmailcom)
 
 
