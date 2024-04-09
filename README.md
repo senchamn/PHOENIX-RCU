@@ -7,8 +7,7 @@
   
 
 ## Screenshots
-
-![53](https://zennashop.com/images/working_principle_en.png)
+<img src="https://zennashop.com/images/working_principle_en.png" width="45%" />
 
 ## Paid Features
 - rat size 321 kb
