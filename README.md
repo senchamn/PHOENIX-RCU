@@ -1,5 +1,5 @@
 <p align="center">
-<img src='12.png' style="height:100px;width:100px;" >
+<img src='12.png' style="height:200px;width:200px;" >
 </p>
 <h1 align=center>PHOENIX RCU</h1>
 
