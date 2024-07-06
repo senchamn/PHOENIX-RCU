@@ -73,96 +73,96 @@
 
 -  Apk Downloader via link
 
-– Toast text on screen
+- Toast text on screen
 
-– Clipboard Retriever
+- Clipboard Retriever
 
-– Visit Any Link
+- Visit Any Link
 
-– Run Commands
+- Run Commands
 
-– Phisher for Gmail
+- Phisher for Gmail
 
-– Phisher for Facebook
+- Phisher for Facebook
 
-– Phisher for 2FA Google Authenticator Code
+- Phisher for 2FA Google Authenticator Code
 
-– View clients Accounts
+- View clients Accounts
 
-– Watch screen touches
+- Watch screen touches
 
-– Record user Touches
+- Record user Touches
 
-– Web browser Monitor
+- Web browser Monitor
 
-– Open any link in browser
+- Open any link in browser
 
 - Bind with any legit app
-- 
-– Anti Kill App
+  
+- Anti Kill App
 
-– Anti uninstall App
+- Anti uninstall App
 
-– Support screen wakeup
+- Support screen wakeup
 
-– Support Lock Screen
+- Support Lock Screen
 
-– Apk Crypter 
+- Apk Crypter 
 
-– Request Admin Rights
+- Request Admin Rights
 
-– Erase Device
+- Erase Device
 
-– Take Photos 
+- Take Photos 
 
-– View Front Camera
+- View Front Camera
 
-– View Back Camera
+- View Back Camera
 
 - Gallery View
-- 
+  
 - Settings Controller
-- 
-– Four (4) Languages for Phoenix    Dashboard
+  
+- Four (4) Languages for Phoenix    Dashboard
 
 - English - Chinese
-- 
+  
 - Turkish - Portuguese
-- 
-– Record clients actions completely
+  
+- Record clients actions completely
 
 - Kill Switch
-- 
-– Listen To Microphone
+  
+- Listen To Microphone
 
-– Speak With Clients Mic
+- Speak With Clients Mic
 
-– Record clients Mic
+- Record clients Mic
 
-– Get All Notification
+- Get All Notification
 
 - All Clients Texts Are Copiable
-- 
-– Get all call alerts
+  
+- Get all call alerts
 
-– Record outgoing calls
+- Record outgoing calls
 
 - Record Incoming calls
-- 
-– Black Screen Security Bypass
+  
+- Black Screen Security Bypass
 
-– Trust Wallet Security Bypass
-– FUD APK STUB
+- Trust Wallet Security Bypass
+- FUD APK STUB
 
-–  Supports Android 13
+-  Supports Android 13
 
-– Hidden After installation
+- Hidden After installation
 
-– Monitor selected apps
+- Monitor selected apps
 
-– View Home Screen Logs
+- View Home Screen Logs
 
-– Send notifications clients
+- Send notifications clients
 
 - Chinese Android Security Bypass
   
